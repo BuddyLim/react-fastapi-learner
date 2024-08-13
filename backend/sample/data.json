@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Margherita Pizza",
+        "price": 12,
+        "image": "https://example.com/images/margherita_pizza.jpg",
+        "id": 1
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "price": 15,
+        "image": "https://example.com/images/spaghetti_carbonara.jpg",
+        "id": 2
+    },
+    {
+        "name": "Caesar Salad",
+        "price": 10,
+        "image": "https://example.com/images/caesar_salad.jpg",
+        "id": 3
+    },
+    {
+        "name": "Sushi Platter",
+        "price": 25,
+        "image": "https://example.com/images/sushi_platter.jpg",
+        "id": 4
+    },
+    {
+        "name": "Tacos al Pastor",
+        "price": 8,
+        "image": "https://example.com/images/tacos_al_pastor.jpg",
+        "id": 5
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "price": 18,
+        "image": "https://example.com/images/chicken_tikka_masala.jpg",
+        "id": 6
+    },
+    {
+        "name": "Chocolate Cake",
+        "price": 6,
+        "image": "https://example.com/images/chocolate_cake.jpg",
+        "id": 7
+    },
+    {
+        "name": "Greek Yogurt Parfait",
+        "price": 5,
+        "image": "https://example.com/images/yogurt_parfait.jpg",
+        "id": 8
+    },
+    {
+        "name": "Beef Burger",
+        "price": 13,
+        "image": "https://example.com/images/beef_burger.jpg",
+        "id": 9
+    },
+    {
+        "name": "Mango Smoothie",
+        "price": 7,
+        "image": "https://example.com/images/mango_smoothie.jpg",
+        "id": 10
+    },
+    {
+        "name": "Pizza",
+        "price": 5,
+        "image": "test",
+        "id": 11
+    },
+    {
+        "name": "Pizza",
+        "price": 5,
+        "image": "test",
+        "id": 12
+    },
+    {
+        "name": "Pizza",
+        "price": 5,
+        "image": "test",
+        "id": 13
+    },
+    {
+        "name": "dfasfsd",
+        "price": 213,
+        "image": "https://fasdfsda",
+        "id": 14
+    },
+    {
+        "name": "Pasta",
+        "price": 6,
+        "image": "https://localhost",
+        "id": 15
+    }
+]
